@@ -50,12 +50,12 @@ VALUES ("Portable Stainless Steel Grill", "Grill", 45.23, 1);    ßß
 SELECT * FROM products    
 ```
 
-#Link to video:
-###BamazonManager
-*https://youtu.be/jGg8TuA7gLQ
+# Link to video:
+### BamazonManager
+* https://youtu.be/jGg8TuA7gLQ
 
-###BamazonCustomer
-*https://youtu.be/Ct0SxKlu5jI
+### BamazonCustomer
+* https://youtu.be/Ct0SxKlu5jI
 
 
 
