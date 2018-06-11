@@ -45,7 +45,7 @@ INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Cooler", "Сooler", 12.90, 2);    
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Portable Stainless Steel Grill", "Grill", 45.23, 1);    ßß				
+VALUES ("Portable Stainless Steel Grill", "Grill", 45.23, 1);			
 
 SELECT * FROM products    
 ```
